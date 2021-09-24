@@ -10,5 +10,8 @@ h1 {
     text-align: center;
     border: 5px solid white;
     height: 7vh;
-
 }
+.stuff {
+    margin-left: 60px;
+}
+
