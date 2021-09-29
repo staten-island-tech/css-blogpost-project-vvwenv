@@ -2,6 +2,10 @@ body {
   background-color: rgb(30, 31, 32);
   color: rgb(255, 255, 255);
   font-size: 25px;
+  font-family: "Special Elite", cursive;
+}
+ul {
+  line-height: 40px;
 }
 h1 {
   color: #ffffff;
@@ -10,14 +14,23 @@ h1 {
   text-align: center;
   border: 5px solid white;
   height: 7vh;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 .stuff {
   margin-left: 60px;
 }
-.linkcolor {
+.Name {
   color: crimson;
 }
+.link {
+  color: firebrick;
+  margin-left: 30px;
+}
 #Guide {
-  font-size: 15px;
+  font-size: 20px;
   color: white;
+}
+.pic {
+  height: 60vh;
 }
