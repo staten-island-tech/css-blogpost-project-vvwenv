@@ -1,17 +1,23 @@
 body {
-    background-color: rgb(30, 31, 32);
-    color: rgb(255, 255, 255);  
-    font-size: 25px;
+  background-color: rgb(30, 31, 32);
+  color: rgb(255, 255, 255);
+  font-size: 25px;
 }
 h1 {
-    color: #ffffff;
+  color: #ffffff;
 }
 .head {
-    text-align: center;
-    border: 5px solid white;
-    height: 7vh;
+  text-align: center;
+  border: 5px solid white;
+  height: 7vh;
 }
 .stuff {
-    margin-left: 60px;
+  margin-left: 60px;
 }
-
+.linkcolor {
+  color: crimson;
+}
+#Guide {
+  font-size: 15px;
+  color: white;
+}
