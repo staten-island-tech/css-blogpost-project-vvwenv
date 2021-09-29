@@ -13,7 +13,6 @@ h1 {
 .head {
   text-align: center;
   border: 5px solid white;
-  height: 7vh;
   padding-top: 20px;
   padding-bottom: 10px;
 }
@@ -21,7 +20,7 @@ h1 {
   margin-left: 60px;
 }
 .Name {
-  color: crimson;
+  color: rgb(255, 0, 51);
 }
 .link {
   color: firebrick;
